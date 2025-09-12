@@ -1,4 +1,4 @@
-package CP;
+package TLE_CP_31_SHEET.CP;
 
 import java.util.Scanner;
 
